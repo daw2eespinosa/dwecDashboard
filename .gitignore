@@ -1,0 +1,11 @@
+.tmp
+bower_components
+dist
+node_modules
+test
+.babelrc
+.bowerrc
+.yo-rc.json
+bower.json
+gulpfile.babel.js
+package.json
